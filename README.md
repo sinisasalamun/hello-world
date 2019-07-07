@@ -5,8 +5,8 @@
     </head>
     <body>
       <p> nešt </p>
-      <script type="text/javascript">
-        document.write ("eto probe javascripta")
-      </script>
+     <script>
+          document.write ("nesto")
+</script>
     </body>
   </html>
